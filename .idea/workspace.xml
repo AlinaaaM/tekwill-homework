@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1d6f2ac-085a-49e1-9430-b740dcc2bd22" name="Default Changelist" comment="added HelloWorldPrinter.java">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basic/MovieQuote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basic/MovieQuoteDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basic/ShapePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/learning/basic/HelloWorldPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/learning/basic/HelloWorldPrinter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l1FqBctIa5SoYUfdX4sE266t6h" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.DayOfWeek">
+    <configuration name="ConversionFromMilesToKilometers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversionFromMilesToKilometers" />
+      <module name="Loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayOfWeek" />
+      <module name="Loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForDemo" />
+      <module name="Loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneKeyPads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhoneKeyPads" />
+      <module name="Loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchDemo" />
+      <module name="Loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DayOfWeek" />
+        <item itemvalue="Application.SwitchDemo" />
+        <item itemvalue="Application.ForDemo" />
+        <item itemvalue="Application.ConversionFromMilesToKilometers" />
+        <item itemvalue="Application.PhoneKeyPads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1d6f2ac-085a-49e1-9430-b740dcc2bd22" name="Default Changelist" comment="" />
+      <created>1606756880297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606756880297</updated>
+      <workItem from="1606934690159" duration="2249000" />
+      <workItem from="1607976894635" duration="2800000" />
+      <workItem from="1608490011380" duration="6082000" />
+      <workItem from="1609691321712" duration="1608000" />
+      <workItem from="1609706201050" duration="1785000" />
+      <workItem from="1609708004584" duration="1252000" />
+      <workItem from="1609710077494" duration="1216000" />
+      <workItem from="1609711979729" duration="1031000" />
+      <workItem from="1609773398325" duration="1514000" />
+      <workItem from="1609775267106" duration="1786000" />
+      <workItem from="1609777067865" duration="9075000" />
+      <workItem from="1609793794865" duration="673000" />
+      <workItem from="1609794630482" duration="126000" />
+      <workItem from="1609795721403" duration="1432000" />
+      <workItem from="1609797419820" duration="1046000" />
+      <workItem from="1609869999017" duration="46000" />
+    </task>
+    <task id="LOCAL-00001" summary="added HelloWorldPrinter.java">
+      <created>1606759163701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606759163701</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="added HelloWorldPrinter.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="added HelloWorldPrinter.java" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1609708013032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1609708013032" />
+    <state x="13" y="0" key="CommitChangelistDialog2" timestamp="1608494822940">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="13" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608494822940" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1606758961072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1606758961072" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1609692003189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609692003189" />
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1609797005808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609797005808" />
+    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1609797005808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609797005808" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1609797005808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609797005808" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1609797005808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609797005808" />
+    <state x="554" y="114" key="RollbackChangesDialog" timestamp="1606757498600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="554" y="114" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606757498600" />
+    <state x="0" y="164" key="Vcs.Push.Dialog.v2" timestamp="1606759454630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="164" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606759454630" />
+    <state x="209" y="32" key="new project wizard" timestamp="1609692309208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1609692309208" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606758980209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606758980209" />
+  </component>
+</project>
